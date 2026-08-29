@@ -1,5 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":1638,"scrollY":930},
-{"id":2,"expanded":true,"name":"[START] Tutorial Map","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":507.2727272727273}
+null,
+{"id":2,"expanded":true,"name":"[START] Tutorial Map","order":1,"parentId":0,"scrollX":811,"scrollY":465},
+{"id":3,"expanded":false,"name":"Book Scene","order":2,"parentId":2,"scrollX":1638,"scrollY":930},
+null,
+{"id":5,"expanded":false,"name":"Stone Cave","order":3,"parentId":0,"scrollX":1638,"scrollY":930},
+{"id":6,"expanded":false,"name":"Slum","order":4,"parentId":0,"scrollX":1622,"scrollY":990},
+{"id":7,"expanded":true,"name":"Trading City","order":5,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1117.7142857142856},
+{"id":8,"expanded":false,"name":"Abandoned School","order":6,"parentId":0,"scrollX":1404,"scrollY":797.1428571428571}
 ]
